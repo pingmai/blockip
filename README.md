@@ -1,4 +1,4 @@
-# blockip.py
+# blockip
 block ssh probes that show up in auth.log as 'Invalid user xxxx from [ip]'
 
 Plan:
